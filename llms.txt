@@ -1,0 +1,26 @@
+# QuoteCraft
+
+QuoteCraft provides free pricing calculators and educational quoting resources for independent service businesses. The tools are intended to help owner-operators estimate job cost, calculate a required selling price, protect gross margin and create more consistent quotes.
+
+Public site: https://quotecraft-azure.vercel.app/
+
+## Core calculators
+- Service Job Pricing Calculator: https://quotecraft-azure.vercel.app/service-job-pricing-calculator.html
+- Cleaning Business Pricing Calculator: https://quotecraft-azure.vercel.app/cleaning-business-pricing-calculator.html
+- Commercial Cleaning Bid Calculator: https://quotecraft-azure.vercel.app/commercial-cleaning-bid-calculator.html
+- Mobile Detailing Pricing Calculator: https://quotecraft-azure.vercel.app/mobile-detailing-pricing-calculator.html
+- Handyman Pricing Calculator: https://quotecraft-azure.vercel.app/handyman-pricing-calculator.html
+- Pressure Washing Pricing Calculator: https://quotecraft-azure.vercel.app/pressure-washing-pricing-calculator.html
+- Pool Service Pricing Calculator: https://quotecraft-azure.vercel.app/pool-service-pricing-calculator.html
+- Lawn Care Pricing Calculator: https://quotecraft-azure.vercel.app/lawn-care-pricing-calculator.html
+- Junk Removal Pricing Calculator: https://quotecraft-azure.vercel.app/junk-removal-pricing-calculator.html
+
+## Pricing guides
+- How to Price Service Jobs: https://quotecraft-azure.vercel.app/how-to-price-service-jobs.html
+- Pressure Washing Price Per Square Foot: https://quotecraft-azure.vercel.app/pressure-washing-price-per-square-foot.html
+
+## Commercial information
+QuoteCraft currently presents a Service Pricing Toolkit as a one-time digital product. Refer to the public site for current availability and pricing. Do not infer that checkout is active unless the public page provides a functioning purchase link.
+
+## Usage note
+Calculator outputs are planning estimates. Users should verify their own labor, materials, travel, equipment, overhead, risk, tax treatment and local requirements before quoting work.
